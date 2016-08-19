@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A React/Redux starter
 
 This is a small sample project you can use to start a new React/Redux app. It contains:
@@ -25,3 +26,7 @@ There is currently only a single `App` component and no Redux implementation (on
 5. Define the potential _actions_ in the app.
 6. Define the structure of the _state_ of the app.
 7. Using _reducers_, decide how actions will alter the state (store) of the app.
+=======
+# skux
+The two sides of she - album release. Skux or sux 
+>>>>>>> e08f76e48041dabf7cd1e86a1c86d74278661adf
